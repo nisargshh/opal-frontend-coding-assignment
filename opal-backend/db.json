@@ -1,0 +1,20 @@
+{
+  "schedules": [
+    {
+      "id": 2,
+      "app": "Twitter",
+      "startTime": "13:30",
+      "endTime": "14:30",
+      "repeat": true,
+      "days": {
+        "monday": true,
+        "tuesday": true,
+        "wednesday": true,
+        "thursday": true,
+        "friday": true,
+        "saturday": true,
+        "sunday": true
+      }
+    }
+  ]
+}
